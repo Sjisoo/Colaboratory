@@ -1,6 +1,6 @@
 # Colaboratory
 
-## 문서작업 링크 (tistory)
+## 문서작업 블로그 (tistory)
 [Colaboratory_한국어_설명_tistory](http://jisoo-coding.tistory.com/2)
 
 * 본 readme에 요약을 해놓았지만, 자세한 내용은 위 링크에서 볼 수 있다.
